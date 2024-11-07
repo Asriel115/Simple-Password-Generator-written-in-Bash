@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# GitHub repository URL (replace with your repository's URL)
 GITHUB_URL="https://github.com/Asriel115/Simple-Password-Generator-written-in-Bash/blob/main/pwdGen.sh"
 TARGET_DIR="/usr/local/bin"
 TARGET_PATH="$TARGET_DIR/pwdGen.sh"
