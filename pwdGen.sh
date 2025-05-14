@@ -3,7 +3,7 @@
 length=40
 
 # Define the possible characters for the password
-chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()"
+chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()~,.|-+=/"
 
 while true; do
   # Generate the password
